@@ -1,0 +1,9 @@
+Nama: eijaz
+Berat: 70 kg
+Tinggi: 1.75 m
+BMI: 22.86
+
+Nama: xin yin 
+Berat: 55 kg
+Tinggi: 1.60 m
+BMI: 21.48
