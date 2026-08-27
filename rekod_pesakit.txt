@@ -1,5 +1,5 @@
 Nama: eijaz
-Berat: 70 kg
+Berat: 170 kg
 Tinggi: 1.75 m
 BMI: 22.86
 
