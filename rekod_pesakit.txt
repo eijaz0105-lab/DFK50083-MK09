@@ -1,7 +1,7 @@
 Nama: eijaz
 Berat: 170 kg
 Tinggi: 1.75 m
-BMI: 22.86
+BMI: 55.5
 
 Nama: xin yin 
 Berat: 55 kg
